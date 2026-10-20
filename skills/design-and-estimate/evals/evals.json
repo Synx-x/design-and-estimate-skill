@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Draft me a proposal for a document Q&A chatbot with role-based access control, using Docling for parsing and SQLite+sqlite-vec for storage.",
+    "should_trigger": true
+  },
+  {
+    "query": "Estimate how long a customer export screen with CSV download would take in this repo.",
+    "should_trigger": true
+  },
+  {
+    "query": "Start the dev server for this repo.",
+    "should_trigger": false
+  }
+]
