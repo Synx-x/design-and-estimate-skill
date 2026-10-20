@@ -46,8 +46,6 @@ Each deliverable line is sized on its own, and the total is the sum of the lines
 | A screen plus its backend | 3 - 6 hr | about 1 day |
 | A large module or external integration | 4 - 5 hr | about 1 day on the line |
 
-The calibration case is a mobile PWA migration with To-Do, calendar filters, contacts, quotes and Outlook sync. About 20 lines came to 40 - 60 hours accelerated and 12.5 working days manual. Work that adds real infrastructure, such as a queue or a background worker, runs well past these bands.
-
 ## Guarantees
 
 - The skill never picks the output style for you.
